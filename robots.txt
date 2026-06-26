@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ijorky81.github.io/centerkering-com-cn/sitemap.xml
